@@ -1,0 +1,5 @@
+Overloading is defining functions that have similar signatures, yet have different parameters.
+Overrriding is only pertinent to derived classes, where the parent class has defined a method and the derived class 
+wishes to override that method.
+
+In PHP, you can only overload methods using the magic method __call.
